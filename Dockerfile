@@ -7,3 +7,4 @@ RUN echo "==> Installing gettext" \
  && apk add gettext
 
 
+EXPOSE 80
